@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    font-family: Arial, sans-serif;
+}
+form{
+    border-radius: 50px;
+    width: 500px;
+    background-color: rgb(83, 83, 198);
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+input{
+    margin-bottom: 0;
+    padding: 0px;
+    font-size: 16px;
+}
+button{
+    margin-top: -5px;
+    max-width: 340px;
+    margin-left: 80px;
+}
+#criar_conta{
+    margin-bottom: -60px;
+   margin-left: -70px;
+}
